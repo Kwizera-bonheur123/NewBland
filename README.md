@@ -1,0 +1,2 @@
+[![Build](https://github.com/bonheur-kwizera/MyBrand-BE/actions/workflows/MyBrand.yml/badge.svg)](https://github.com/bonheur-kwizera/MyBrand-BE/actions/workflows/MyBrand.yml)
+![check-code-coverage](https://img.shields.io/badge/code--coverage-76.86%25-yellow)
